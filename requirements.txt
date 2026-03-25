@@ -1,0 +1,13 @@
+streamlit
+streamlit-agraph    
+pyvis               
+PyMuPDF             
+networkx            
+torch
+transformers        
+sentence-transformers 
+gliner              
+fastcoref          
+chromadb            
+rank_bm25           
+

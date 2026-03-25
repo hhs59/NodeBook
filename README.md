@@ -51,3 +51,6 @@ Unlike standard RAG, which only performs vector searches, **NodeBook** extracts 
 3. **Run the Application**
    ```bash
     streamlit run app/main.py
+
+## Demo
+![](demo.png)

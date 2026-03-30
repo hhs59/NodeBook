@@ -41,8 +41,7 @@ Unlike standard RAG, which only performs vector searches, **NodeBook** extracts 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/NodeBook.git
-   cd NodeBook
+   git clone https://github.com/hhs59/NodeBook
 
 2. **Install Dependencies**
    ```bash
